@@ -1,0 +1,13 @@
+Time resolution is 1 ps
+time=0 ,t=0,f=0,open=x
+time=5000 ,t=0,f=0,open=0
+time=10000 ,t=0,f=1,open=0
+time=20000 ,t=1,f=0,open=0
+time=25000 ,t=1,f=0,open=1
+time=30000 ,t=1,f=1,open=1
+time=35000 ,t=1,f=1,open=0
+time=40000 ,t=0,f=0,open=0
+time=50000 ,t=0,f=1,open=0
+time=60000 ,t=1,f=0,open=0
+time=70000 ,t=1,f=1,open=0
+$finish called at time : 80 ns : File "C:/Users/pc/vending_machine/vending_machine.srcs/sim_1/new/vending_machine_tb.v" Line 39

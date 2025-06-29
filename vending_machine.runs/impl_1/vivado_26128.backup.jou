@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.2 (64-bit)
+# SW Build 5239630 on Fri Nov 08 22:35:27 MST 2024
+# IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Start of session at: Tue Jun 17 14:34:17 2025
+# Process ID         : 26128
+# Current directory  : C:/Users/pc/vending_machine/vending_machine.runs/impl_1
+# Command line       : vivado.exe -log vending_machine.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source vending_machine.tcl -notrace
+# Log file           : C:/Users/pc/vending_machine/vending_machine.runs/impl_1/vending_machine.vdi
+# Journal file       : C:/Users/pc/vending_machine/vending_machine.runs/impl_1\vivado.jou
+# Running On         : LAPTOP-JGICL4QJ
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26100
+# Processor Detail   : AMD Ryzen 5 4600H with Radeon Graphics         
+# CPU Frequency      : 2994 MHz
+# CPU Physical cores : 6
+# CPU Logical cores  : 12
+# Host memory        : 7905 MB
+# Swap memory        : 7784 MB
+# Total Virtual      : 15690 MB
+# Available Virtual  : 3719 MB
+#-----------------------------------------------------------
+source vending_machine.tcl -notrace
